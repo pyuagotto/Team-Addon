@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "name": "[1.21.90]Team Addon",
+        "name": "[1.21.100]Team Addon",
         "description": "BetaAPIsを有効にする必要があります",
-        "uuid": "a0868f51-4b00-1c5e-3213-c5e65284327c",
+        "uuid": "95ce43fb-43d6-436c-9965-36f482d3f1e1",
         "version": [
             0,
             1,
@@ -19,7 +19,7 @@
         {
             "description": "GameTest module",
             "type": "script",
-            "uuid": "b2aae0a3-fc65-4e5f-b100-b70933b03596",
+            "uuid": "8f4374a7-cf0b-4d73-85fd-b91f0cae116e",
             "version": [
                 0,
                 1,
@@ -31,7 +31,7 @@
     "dependencies": [
         {
             "module_name": "@minecraft/server",
-            "version": "2.1.0-beta"
+            "version": "2.2.0-beta"
         }
     ]
 }
